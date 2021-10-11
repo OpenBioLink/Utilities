@@ -24,8 +24,11 @@ Path to testset file: f"./{dataset}/data/test.txt"
 
 F.e.:
 
-```python eval_experiment.py --datasets OBL WN18RR --predictions predfile1.txt predfile2.txt```
+```bash
+python eval_experiment.py --datasets OBL WN18RR --predictions predfile1.txt predfile2.txt
+```
 
+```text
 ---- OBL
 	|
 	---- predictions
@@ -37,7 +40,6 @@ F.e.:
 	---- data
 		|
 		---- test.txt
-
 ---- WN18RR
 	|
 	---- predictions
@@ -49,8 +51,5 @@ F.e.:
 	---- data
 		|
 		---- test.txt
-
-​    
-
-​             
+```           
 
