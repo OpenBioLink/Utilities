@@ -11,7 +11,7 @@ Utilities (Scripts, Data, ...) which are used in various OpenBioLink (sub-)proje
 ├── data                      # Everything related to data
 │   ├── Hetionet                 # Tools and data for Hetionet KGC dataset
 │   ├── Pheknowlator             # Tools and data for Pheknowlator KGC dataset
-|   └── KGCLabelgraphs			 # RDF graphs for further information to entities and relations in link prediction benchmarks
+|   └── KGCLabelgraphs           # RDF graphs for further information to entities and relations in link prediction benchmarks
 └── ...
 ```
 
