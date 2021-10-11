@@ -5,7 +5,11 @@ import gzip
 
 def _rep_white(x):
     return x
-    .replace("Biological Process","Biological_Process")
+    line.replace("Biological Process","Biological_Process")
+    .replace("Molecular Function","Molecular_Function")
+    .replace("Pharmacologic Class","Pharmacologic_Class")
+    .replace("Cellular Component","Cellular_Component")
+    .replace("Side Effect","Side_Effect")
     
     
 if __name__ == "__main__":
