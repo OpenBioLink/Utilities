@@ -18,6 +18,6 @@ Utilities (Scripts, Data, ...) which are used in various OpenBioLink (sub-)proje
 ## Add to utilities
 
 + Every bigger *utility* should be in its own *directory*
-+ Every *directory* should have its own Readme file (own discretion, at least level 1) 
++ Every *utility* should have its own Readme file explaining its contents
 + Add your folder to the structure above and add a small description
 
