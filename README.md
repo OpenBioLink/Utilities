@@ -5,10 +5,13 @@ Utilities (Scripts, Data, ...) which are used in various OpenBioLink (sub-)proje
 
 ```
 .
-├── SAFRAN                    # Utilities regarding the SAFRAN project
-│   └── evaluation                # Multiprecision evaluation scripts
-├── datasets                  # Everything related to data
-│   ├── Hetionet                  # Hetionet dataset creation
-│   ├── Pheknowlator              # Pheknowlator dataset creation
+├── projects                  # Utilities regarding specific projects
+│   └── SAFRAN                   # SAFRAN project https://github.com/OpenBioLink/SAFRAN
+│      └── evaluation               # Multiprecision evaluation scripts
+├── data                      # Everything related to data
+│   ├── Hetionet                 # Hetionet dataset creation
+│   ├── Pheknowlator             # Pheknowlator dataset creation
+|   └── KGCLabelgraphs			 # RDF graphs for further information to entities and relations in link prediction benchmarks
 └── ...
 ```
+
